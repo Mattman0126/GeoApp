@@ -22,7 +22,7 @@ public class Geo_UI extends JFrame{
 	//top Panel and child button declaration
 	private JPanel topPanel;
 	private JLabel introLabel;
-	//hey this is a random comment
+	//hey this is a random comment 2
 	private JButton connectChildren, reset;
 	
 	//Canvas panel
